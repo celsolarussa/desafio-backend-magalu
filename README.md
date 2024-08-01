@@ -32,6 +32,7 @@ Para rodar este projeto, você precisará adicionar as seguintes variáveis de a
 Exemplo de arquivo `.env`:
 
 ```dotenv
+DB_HOST=localhost
 DB_NAME=magaludb
 DB_USER=myuser
 DB_PASSWORD=secret
